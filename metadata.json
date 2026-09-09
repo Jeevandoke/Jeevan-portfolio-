@@ -1,0 +1,6 @@
+{
+  "name": "Jeevan — AI-Powered Website Designer",
+  "description": "Premium personal portfolio of Jeevan, a 16-year-old website designer crafting modern, high-converting websites for businesses using AI and human design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
